@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭   I’m currently working on developer docs at [Quix](https://quix.io)...
 - 👯   I’m looking to collaborate on writing better docs.
 - 🤔   I’m looking for help with figuring out why the world has gone mad...
 - 💬   Ask me about dogs and cats!
